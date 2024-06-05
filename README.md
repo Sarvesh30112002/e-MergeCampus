@@ -45,6 +45,94 @@ The Admin of the college can change the current librarian if needed, PGConnect c
 #### The prospect of the business model of this project depends on the fact that the college authorities (college admin, in this case) get a percent of the amounts transacted as commission (both in PGConnect and Foodiegenie).
 <hr>
 
+### Screenshots
+
+<p align="center">
+  <img src="Demo/Screenshot (723).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (725).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (726).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (727).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (728).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (729).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (730).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (731).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (732).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (733).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (734).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (735).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (736).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (737).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (738).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (739).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (740).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (741).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (742).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot (743).png" alt="image"/>
+</p>
+
+<p align="center">
+  <img src="Demo/Screenshot 2024-06-04 115632.png" alt="image"/>
+</p>
+
+<hr>
+
 ## Steps to setup and run this Dapp in localhost:
 
 1. **Fork** and **clone** this repo in local machine.
